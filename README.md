@@ -8,14 +8,6 @@ The replication package includes the following key artifact:
 
 - **LLMs and Prompt Engineering in RE - Systematic Literature Review.xlsx**: An Excel file containing comprehensive data from the systematic mapping study.
 
-## Purpose
-
-This replication package enables researchers and practitioners to:
-- Reproduce the findings of the systematic mapping study.
-- Explore primary and secondary search data, including categories, statistics, inclusion/exclusion criteria, and Scopus search strings.
-- Analyze LLM applications, prompting strategies, and evaluation methods in RE tasks.
-- Use the data for further research or tool development in RE.
-
 ## File Description
 
 - **File Name**: `LLMs and Prompt Engineering in RE - Systematic Literature Review.xlsx`
