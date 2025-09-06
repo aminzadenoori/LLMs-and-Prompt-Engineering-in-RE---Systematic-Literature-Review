@@ -44,6 +44,3 @@ This replication package is released under [insert license, e.g., MIT License, C
 
 We thank the authors of the reviewed studies and the research communities (e.g., Zenodo, GitHub) for providing access to code and datasets.
 
----
-
-*Note*: This README assumes the Excel file contains primary/secondary search data, categories, statistics, inclusion/exclusion criteria, and Scopus search strings, as specified. If additional files or specific details about these elements are available, please provide them to refine the README further.
